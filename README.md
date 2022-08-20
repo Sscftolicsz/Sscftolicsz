@@ -34,13 +34,13 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://medium.com/@zluvsand">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <td><a href="https://www.instagram.com/iwanwanx/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />
             </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <td><a href="https://www.linkedin.com/in/rachmad-darmawan-9b324822a/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <td><a href="https://open.spotify.com/user/nu4usecxcu5uv1d25qjkk4j5z">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
         </tr>
