@@ -5,7 +5,7 @@
 - 📫 How to reach me rachmad.darmawan@binus.ac.id
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sscftolicsz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rachmad github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sscftolicsz&layout=compact&theme=material-palenight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sscftolicsz)](https://github.com/Sscftolicsz/github-readme-stats)
 
 ### Technologies
 
