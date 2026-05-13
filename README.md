@@ -1,11 +1,8 @@
 - 👋 Hi, I’m Rachmad Darmawan
-- 👀 I’m interested in Database Administrator, IT Support, and SQL Database Engineer
+- 👀 I’m interested in AI Engineer and Backend Developer
 - 🌱 I’m currently learning Python, Java, C++, HTML, CSS, and many else
-- 💞️ I’m looking to collaborate on database projects
-- 📫 How to reach me rachmad.darmawan@binus.ac.id
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sscftolicsz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rachmad github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sscftolicsz&layout=compact"/>
+- 💞️ I’m looking to collaborate on any projects related to AI, Backend, and many else
+- 📫 How to reach me rachmaddarmawan000@gmail.com
 
 ### Technologies
 
